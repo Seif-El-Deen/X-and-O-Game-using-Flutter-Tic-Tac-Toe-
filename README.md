@@ -1,4 +1,4 @@
-# learning_flutter_project
+# X And O Game (Using Flutter)
 
 A new Flutter project.
 
